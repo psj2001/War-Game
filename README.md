@@ -54,5 +54,4 @@ A simple card-based **War Game** built using **Swift** and **UIKit**. This app s
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/your-username/war-card-game.git
-](https://github.com/psj2001/War-Game.git)
+   [git clone https://github.com/psj2001/War-Game.git]
