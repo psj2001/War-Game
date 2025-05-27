@@ -4,24 +4,6 @@ A simple card-based **War Game** built using **Swift** and **UIKit**. This app s
 
 ---
 
-## 🎮 Gameplay Overview
-
-- Each player draws a card on button tap.
-- The player with the higher card wins the round and earns a point.
-- The score is updated in real-time.
-- The game continues until the user decides to stop or reset.
-
----
-
-## ✨ Features
-
-- 🚀 Clean and minimalist user interface using UIKit  
-- 🔄 Random card generation on every round  
-- 🏆 Real-time score tracking  
-- 📱 Responsive layout for different iPhone sizes  
-
----
-
 ## 🛠️ Built With
 
 - **Swift**
